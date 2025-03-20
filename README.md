@@ -28,9 +28,9 @@ This Python script implements an enhanced DDoS (Distributed Denial of Service) a
     git clone https://github.com/Mustafa1p/DDOS-Telegram-BOT.git
     ```
 
-2. Obtain your Telegram API token and replace `YOUR_TOKEN_HERE` in the script with your actual token.
+2. Obtain your Telegram API token and replace `7979200077:AAFLkuqRPDW8f1NaSFkqpVBAKqSPTByVphk` in the script with your actual token.
 
-3. Set your admin chat ID in the `ADMIN_CHAT_ID` variable to receive error notifications.
+3. Set your admin chat ID in the `5945670204` variable to receive error notifications.
 
 ## Usage
 
