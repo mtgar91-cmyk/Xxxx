@@ -8,11 +8,11 @@ import time
 from scapy.all import IP, TCP, UDP, ICMP, send, raw
 from telebot import types
 
-TOKEN = "YOUR_ACTUAL_TOKEN"
-ADMIN_CHAT_ID = YOUR_ACTUAL_ID
+TOKEN = "8560731941:AAEgBrnlDwFIGoET5P1rXObSyS22MgV2I7I"
+ADMIN_CHAT_ID = 8322439572
 MAX_PACKETS = 1000000  # Industrial-grade flood volume
 
-bot = telebot.TeleBot(TOKEN)
+bot = telebot.TeleBot(8560731941:AAEgBrnlDwFIGoET5P1rXObSyS22MgV2I7I)
 user_attacks = {}  # {chat_id: {'method': '', 'target': ''}}
 
 # ===== CYBER WEAPONRY ARSENAL =====
